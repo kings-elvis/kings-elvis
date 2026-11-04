@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./banner.png" width="100%" alt="Elvis King'ori - Embedded Systems and IoT">
+</p>
 # Hi, I'm Elvis King'ori 👋
 
 ### Electronics | Embedded Systems | IoT | Instrumentation
@@ -42,6 +45,20 @@ An embedded monitoring project focused on observing poultry-house environmental 
 [View Repository](https://github.com/kings-elvis/Smart-Poultry-Monitoring-System)
 
 ---
+---
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180em"
+       src="https://github-stats-extended.vercel.app/api?username=kings-elvis&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+
+<p align="center">
+  <img height="180em"
+       src="https://github-stats-extended.vercel.app/api/top-langs/?username=kings-elvis&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ## 📚 Currently Learning
 
