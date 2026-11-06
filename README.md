@@ -42,7 +42,12 @@ A rotary encoder interface built using an ESP32-C3 and a display. The project ex
 ### 2. Smart Poultry Monitoring System
 An embedded monitoring project focused on observing poultry-house environmental conditions and responding to temperature and humidity changes.
 
-[View Repository](https://github.com/kings-elvis/Smart-Poultry-Monitoring-System)
+[View Repository](https://github.com/kings-elvis/Smart-Poultry-Monitoring-System)  
+
+### 3. ESP32 DC Power monitor
+An ESP32-C3 Based DC Power, Voltage and Current monitoring system using Micropython, MQTT and a Streamlit dashboard.
+
+[View Repository](https://github.com/kings-elvis/ESP32-DC-Power-monitor-)
 
 ---
 ---
